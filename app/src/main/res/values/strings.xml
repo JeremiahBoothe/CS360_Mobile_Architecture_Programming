@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jeremiah_Boothe_Final</string>
+    <string name="item_description_hint">Item Description</string>
+    <string name="add_item_button_label">Add Item\n</string>
+    <string name="login_button_label">Login</string>
+    <string name="register_button_label">Register</string>
+    <string name="item_name_hint">Item Name\n</string>
+    <string name="username_hint">username\n</string>
+    <string name="password_hint">password\n</string>
+    <string name="title_home">title\n</string>
+    <string name="title_dashboard">title</string>
+    <string name="title_notifications">Notifications\n</string>
+    <string name="title_login">User Login</string>
+    <string name="title_inventory">Inventory</string>
+    <string name="title_inventory_item">Inventory Item</string>
+    <string name="add_item">Add Item</string>
+    <string name="title_add_item">Add Item</string>
+</resources>
